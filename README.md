@@ -2,7 +2,7 @@
 
 Chattbot & Interview Preparation App based on Gemini 
 
-Git clone the repository & you can run two different types of 
+Git clone the repository & you can run two different types of /br
 1- Gemini Chatbot - streamlit run gemini_chatbot.py
 2- Gemini Based Image Interview Preparation App - streamlit run gemini_image.py
 
